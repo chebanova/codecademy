@@ -1,4 +1,2 @@
-let gainedDollar = 3;
-gainedDollar++;
-let lostDollar = 50;
-lostDollar--;
+var favoriteAnimal = 'cat';
+console.log('Me favorite animal: ' + favoriteAnimal);
