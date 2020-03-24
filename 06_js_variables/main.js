@@ -1,2 +1,3 @@
-var favoriteAnimal = 'cat';
-console.log('Me favorite animal: ' + favoriteAnimal);
+var myName = 'Dascha';
+var myCity = 'Vancouver';
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
